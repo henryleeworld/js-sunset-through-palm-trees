@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/298tnIg.gif)
+![](https://i.imgur.com/aExqNjU.gif)
 > 兩邊長著高高棕櫚樹，只在頂部有少量枝葉，既達到協調交通，又做到綠化
